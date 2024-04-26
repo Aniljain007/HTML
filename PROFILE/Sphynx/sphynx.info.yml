@@ -1,0 +1,17 @@
+name: sphynx Theme
+description: "Custom Theme for My Website."
+type: theme
+base theme: olivero
+core_version_requirement: ^8 || ^9 || ^10
+base theme: olivero
+package: Custom
+
+libraries:
+  - Sphynx/global-styling
+
+regions:
+header: header
+menu: main menu
+content: content
+sidebar: sidebar
+footer: footer
