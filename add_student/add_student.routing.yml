@@ -1,0 +1,10 @@
+add_student.module:
+  path: '/add-student'
+  defaults:
+    _form: '\Drupal\add_student\Form\AddStudent'
+    _title: 'Student'
+  requirements:
+    _permission: 'access content'
+    _access: 'TRUE'
+  dependencies:
+    - drupal:block

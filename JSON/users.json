@@ -1,0 +1,26 @@
+{
+   "user": [
+      {
+    "name": "Anil",
+    "age": 24,
+    "isProgrammer": true,
+    "courses": ["HTML","CSS","JAVASCRIPT"],
+     "address": {
+        "city": "Bangalore",
+        "country":"India",
+        "zip": 591115
+     }
+   },
+     {
+      "name": "Sunil",
+    "age": 29,
+    "isProgrammer": true,
+    "courses": ["Database","MongoDB","Python"],
+     "address": {
+        "city": "Mumbai",
+        "country":"India",
+        "zip": 591115
+     }
+   }
+   ]
+}

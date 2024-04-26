@@ -1,0 +1,7 @@
+employee-details-form:
+  path: "/get-employee-details"
+  defaults:
+    _form: 'Drupal\custom_form\Form\EmployeeDetails'
+    _title: "Get Employee Details"
+  requirements:
+    _permission: "access contents"

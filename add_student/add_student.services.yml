@@ -1,0 +1,4 @@
+services:
+  add_student.data_handler:
+    class: Drupal\add_student\Service\LoadData
+    arguments: ['@database']

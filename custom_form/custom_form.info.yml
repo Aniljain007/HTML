@@ -1,0 +1,6 @@
+name: Employee Details
+description: Get Employee Details
+type: module
+package: development
+version: 1.x
+core_version_requirement: ^8 || ^9 || ^10

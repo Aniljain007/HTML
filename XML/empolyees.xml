@@ -1,0 +1,23 @@
+<employees>
+    <employee id='be123'>
+        <firstname>Anil</firstname>
+        <lastname>Mk</lastname>
+        <division>Engineering</division>
+        <building>F3</building>
+        <room>Module6</room>
+    </employee>
+    <employee id='be124'>
+        <firstname>Sunil</firstname>
+        <lastname>pk</lastname>
+        <division>Accountant</division>
+        <building>G3</building>
+        <room>Module7</room>
+    </employee>
+    <employee id='be125'>
+        <firstname>Chetan</firstname>
+        <lastname>kk</lastname>
+        <division>Manager</division>
+        <building>D3</building>
+        <room>Module8</room>
+    </employee>
+</employees>
